@@ -53,7 +53,8 @@ Screenshots included:
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/46af4a7a-0784-4bdf-b6fc-c1a6e6b8cfe4" />
 
 * Event Viewer showing no corresponding logs
-<img width="2560" height="1600" alt="Screenshot 2026-01-15 134615" src="https://github.com/user-attachments/assets/fecf2dca-7f60-4f54-b964-b300533bc22a" />
+<img width="1282" height="1600" alt="Screenshot 2026-01-15 134615" src="https://github.com/user-attachments/assets/fce6a13b-2cde-4091-ac7d-b54a10ffaebf" />
+
 
 
 (All screenshots are stored in the `screenshots` folder.)

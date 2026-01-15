@@ -1,4 +1,4 @@
-# SOC-Incident-Investigation-Portfolio-1
+# SOC-Incident-Investigation-Portfolio
 
 # SOC-Analyst-Lab-Portfolio
 

@@ -37,7 +37,8 @@ In this case study, a Windows 11 system was intentionally configured with an Ope
    ```
 5. Confirmed SSH service was listening on port 22.
 
-<img width="2560" height="1600" alt="Screenshot 2026-01-14 141845" src="https://github.com/user-attachments/assets/43af312f-a35a-4526-9ec9-cba80ab94918" />
+<img width="2560" height="1600" alt="Screenshot 2026-01-15 163545" src="https://github.com/user-attachments/assets/f34efd06-e178-446a-bea6-2b1bdcca5148" />
+
 
 
 ### Kali Linux (Attacker)

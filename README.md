@@ -45,8 +45,7 @@ This portfolio is designed to showcase practical SOC analyst skills beyond theor
 | Case 1 | Port Scan Detection and Investigation |
 | Case 2 | Brute Force Login Attempt Analysis    |
 | Case 3 | Malware Execution Investigation       |
-| Case 4 | Suspicious Network Traffic Analysis   |
-| Case 5 | Phishing Simulation Response          |
+| Case 4 | Metasploit Reverse Shell Lab          |
 
 Each case contains screenshots, logs, analysis, and a formal incident report.
 

@@ -62,16 +62,3 @@ This portfolio showcases my implementation of my knowledge and proves my ability
 * Communicate technical findings clearly
 
 ---
-
-
-## 🚀 How to Use This Repository
-
-Each case folder contains:
-
-* Attack simulation steps
-* Evidence screenshots
-* Log extracts
-* Analysis notes
-* Final incident report
-
-Recruiters and interviewers can review any case independently.
